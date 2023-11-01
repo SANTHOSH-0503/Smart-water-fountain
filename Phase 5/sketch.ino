@@ -1,9 +1,7 @@
 //You can simulate this code using wokwi
 //diagram.json &libraries.txt attached in same folder
-//Happy Learning
 //LINK----https://wokwi.com/projects/379902997023813633
 //For more IOT projects 
-//https://github.com/santh0sh05/IoT_projects.git
 
 //replace with your Blynk credentials
 #define BLYNK_TEMPLATE_ID "TMPL3-VBCPY"
